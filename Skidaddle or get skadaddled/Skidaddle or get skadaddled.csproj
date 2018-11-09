@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,81 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alabama gaurds.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\open door.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HWHD-os1697-CHALK-OUTLINE-OF-DEAD-BODY-CRIME-SCENE-CSI-vinyl-wall-art-sticker-decal-free.jpg_640x640.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dead body.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\919e6104-356f-4595-8578-42edb894b258.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guard gear.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\full gear.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guardone.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\guard two.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hinding spot.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ending.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sniper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alertbutton.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\47356__fotoshop__oof.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\434535__ylearkisto__prison-cell-door-open-and-close-vankikopin-ovi-auki-ja-kiinni.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\336598__inspectorj__footsteps-concrete-a.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\385870__inspectorj__printer-distant-a.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\320876__leonelmail__clothes-movements-foley.mp3" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\428265__leoctiurs__5-clothing-movement.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oof.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\prisoncell.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\29592__erh__angels-4.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\235968__tommccann__explosion-01.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\381382__coltonmanz__alarm.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\108852__emsiarma__snipershot.wav" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
